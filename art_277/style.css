@@ -1,0 +1,577 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+a{
+    text-decoration: none;
+}
+
+body{
+
+}
+
+ .main{
+       
+       background: url(images/slider-01.jpg);
+       background: url(images/slider-02.jpg);
+       background: url(images/slider-03.jpg);
+       background-repeat: no-repeat;
+       background-size: 100%;
+
+}
+
+.navbar ul{
+    color: gray;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+header{
+
+}
+
+.navlinks li{
+    display: inline-block;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+    padding-bottom: 20px;
+
+
+}
+
+.navlinks li:hover{
+  color: #ce3232;
+}
+
+.navlinks a li:hover{
+  color: #ce3232;
+}
+
+
+a:active{
+  color: #ce3232;
+}
+
+
+
+
+.navlinks button{
+  border:none;
+  background: #ce3232;
+  color: white;
+}
+
+.navlinks button:hover{
+    background: #000000;
+}
+
+
+
+ nav ul li{
+    display: inline-block;
+ }
+
+ .right2{
+    float: right;
+    margin-top: 20px;
+    margin-right: 50px;
+ }
+
+ 
+
+
+
+ }
+
+ .right1 .right2{
+padding-bottom: 25px;
+ }
+
+ right1 a:hover{
+    color: #ce3232;
+ }
+
+ .logo{
+    margin-right: 300px;
+ }
+
+ #callNow a{
+    font-size: 15px;
+    color: gray;
+    text-decoration: none;
+    padding-top: 80px;
+ }
+
+ #rest_btn a {
+     font-size: 20px;
+    
+    text-decoration: none;
+    border: 1px solid #ce3232;
+    background: #ce3232;
+    padding: 10px;
+    margin-left: 20px;
+ }
+
+ #rest_btn{
+    border: 1px solid #ce3232;
+    background: #ce3232;
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 5px;
+    color: white;
+ }
+
+ #rest_btn:hover{
+    background: #000000;
+   
+    border:none;
+ }
+
+ .navbar{
+    padding-top: 25px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 0px;
+    position: fixed;
+    border:1px solid white;
+    background: white;
+    width: 100%;
+     box-shadow: 0px 5px  5px grey;
+ }
+
+  li{
+    margin-left: 20px;
+ }
+
+ .row{
+    color: white;
+    margin-top: 150px;
+    margin-left: 50px;
+
+ }
+
+ .container h1{
+    padding-top: 40px;
+    padding-bottom: 60px;
+    font-size: 50px;
+ }
+
+ .container h3{
+  padding-top: 80px;
+ }
+
+ .container a{
+    text-decoration: none;
+ }
+
+ .container .meetBtn{
+    color: white;
+    border: 1px solid #ce3232;
+    background: #ce3232;
+    padding: 20px;
+
+ }
+
+ .meetBtn:hover{
+     background: black;
+     border:none;
+ }
+
+ .sect1{
+    padding-bottom: 160px;
+    padding-top: 5px;
+ }
+
+ .right-pic{
+    float: right;
+
+ }
+
+ .title h4{
+    color: gray;
+    font-weight: bold;
+ }
+
+ .title h2{
+    font-size: 35px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+ }
+
+
+ .sect2{
+    margin-top: 100px;
+    margin-left: 60px;
+
+ }
+
+ .sect2 a{
+    color: gray;
+ }
+
+ .title p{
+    color: gray;
+ }
+
+ .sect3{
+    background: #f9f9f9;
+    margin-top: 130px;
+    text-align: center;
+ }
+
+ .sect3-title{
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 60px;
+ }
+
+ .sect3-title h2{
+      font-size: 30px;
+      font-weight: bold;
+ }
+
+ .sect3-title h4{
+      font-weight: bold;
+      color: gray;
+      padding-top: 15px;
+ }
+
+.team-item{
+    display: inline-block;
+    text-align: center;
+    padding-bottom: 110px;
+   
+}
+
+.tab1{
+   border: 1px solid white;
+    background: url(images/team-image1.jpg);
+       background-repeat: no-repeat;
+       background-size: 366px 550px;
+       width: 366px;
+       height: 550px;
+
+       }
+
+       .tab2{
+   border: 1px solid white;
+    background: url(images/team-image2.jpg);
+       background-repeat: no-repeat;
+       background-size: 366px 550px;
+       width: 366px;
+       height: 550px;
+
+       }
+
+       .tab3{
+   border: 1px solid white;
+    background: url(images/team-image3.jpg);
+       background-repeat: no-repeat;
+       background-size: 366px 550px;
+       width: 366px;
+       height: 550px;
+
+       }
+
+
+       .team-hover{
+        ;
+       }
+
+       .team-hover:hover #kk{
+        ;
+       }
+
+
+
+.oval-text {
+  margin-top:400px;
+
+  font-size: 25px;
+  background: black;
+   opacity: 90%;
+    color: white;
+    padding-top: 20px;
+
+
+}
+
+.social-icon{
+  padding-bottom: 80px;
+}
+
+
+
+
+.sect3 #tab1{
+    margin-left: ;
+}
+
+.sect3 #tab3{
+
+}
+
+#tab2{
+    margin-right:25px;
+    margin-left: 25px;
+}
+
+.team-info{
+    margin-top: 25px;
+    font-weight: bold;
+}
+
+.team-info h3{
+    font-size: 25px;
+}
+
+.team-info p{
+    color: gray;
+    padding-top: 10px;
+}
+
+
+
+.sect4-title{
+    text-align: center;
+    padding-top: 90px;
+}
+
+.sect4-title h2{
+     font-size: 30px;
+      font-weight: bold;
+}
+
+.sect4-title h4{
+     color: gray;
+     padding-top: 20px;
+     padding-bottom: 60px;
+}
+.sect4 .menu-tab1{
+    display: inline-block;
+    margin-left: 5px;
+
+
+}
+
+.sect4 .menu-tab2{
+    display: inline-block;
+    margin-left: 5px;
+}
+
+.next{
+    display: inline-block;
+    width: 550px;
+    height: 400px;
+}
+
+.contact{
+    margin-top:;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.contact-title{
+    font-weight: bold;
+    font-size: 25px;
+    
+}
+
+.next img{
+    margin-top: 40px;
+}
+
+.contact-line{
+    display: inline-block;
+}
+
+.form-item1{
+  border: 0px;
+  font-size: 15px;
+  border-bottom: 1px solid gray;
+  outline: 0px;
+  padding-bottom: 30px;
+  padding-top:50px ;
+  font-weight: bold;
+  margin-top: ;
+  width: 100%;
+
+}
+
+.form-item2{
+   display: block;
+   border: 0px;
+  font-size: 15px;
+  border-bottom: 1px solid gray;
+  outline: 0px;
+  padding-bottom: 10px;
+  padding-top: 30px;
+  font-weight: bold;
+  width: 100%;
+}
+
+.contact-title{
+    float: left;
+    padding-left: 15px;
+
+    
+
+}
+
+.cForm{
+    padding-left: 20px;
+    font-weight: bold;
+    margin-top: 60px;
+}
+
+#cf-submit{
+    font-size: 15px;
+    margin-top:15px;
+    border:1px solid #ce3232;
+    font-weight: bold;
+    background: #ce3232;
+    padding: 15px;
+    width: 100%;
+   padding-bottom: 10px;
+   color: white;
+   
+    
+
+}
+
+.next{
+    margin-bottom: 70px;
+    padding-bottom:30px ;
+}
+
+#next-right{
+
+}
+
+#cImg{
+   margin-top: 60px;
+}
+
+.footer-info{
+  display: inline-block;
+  padding: 30px;
+
+}
+
+.foot-main{
+  text-align: center;
+}
+
+ li{
+  display: inline-block;
+}
+
+.footer-info address p{
+     color: gray;
+     font-weight: bold;
+     font-size: 15px;
+
+
+}
+
+.section-title h2 {
+  text-align: left;
+  padding-bottom: 20px;
+}
+
+address p{
+   text-align: left;
+}
+
+ .footer-open-hour{
+  border:1px solid white;
+   background: url(images/footer-open-hour-bg.jpg);
+       background-repeat: no-repeat;
+       background-size: cover;
+    border-radius: 20px;
+    margin-top: ;
+    padding: 40px 80 40px 80px;
+    overflow: hidden;
+    position: relative;
+    z-index: 22;
+    right: 20px;
+    left: 20px;
+    bottom: -50px;
+    color: white;
+    padding: 50px;
+    padding-right: 80px;
+    padding-left: 80px;
+
+   
+    
+    
+}
+
+.footer-open-hour div{
+  text-align: center;
+}
+
+
+.footer-open-hour::after {
+    background: rgba(29,29,29,0.85);
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -2222;
+  }
+
+ .foot-main{
+  padding-bottom: 80px;
+ }
+
+ .foot-list li a{
+     color: #ce3232;
+ }
+
+
+ .menu-item{
+  text-align: center;
+ }
+
+ .menu-price{
+  font-weight: bold;
+ }
+
+ .form h1{
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-weight: bold;
+ }
+
+.form label{
+  padding-left: 10px;
+  font-size: 15px;
+  color: gray;
+}
+
+.form button{
+  padding: 25px;
+
+
+}
+
+.form button:hover{
+  background: lightblue;
+}
+
+.form{
+  text-align: center;
+}
+
+
+
+
